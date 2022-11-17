@@ -1,0 +1,7 @@
+H:\Ping\Ping\obj\Release\net6.0\PubTmp\Out\Ping.exe
+H:\Ping\Ping\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+H:\Ping\Ping\obj\Release\net6.0\PubTmp\Out\appsettings.json
+H:\Ping\Ping\obj\Release\net6.0\PubTmp\Out\Ping.dll
+H:\Ping\Ping\obj\Release\net6.0\PubTmp\Out\Ping.deps.json
+H:\Ping\Ping\obj\Release\net6.0\PubTmp\Out\Ping.runtimeconfig.json
+H:\Ping\Ping\obj\Release\net6.0\PubTmp\Out\Ping.pdb
